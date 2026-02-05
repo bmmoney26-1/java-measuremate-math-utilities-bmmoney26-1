@@ -36,7 +36,7 @@ double total = TipTaxCalculator.calculateTotal(totalBill, tip, tax);
 
 
 
-
+input.close();
 
 
 
